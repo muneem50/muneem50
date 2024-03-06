@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Muneem Baig</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneem50&label=Profile%20views&color=0e75b6&style=flat" alt="muneem50" /> </p>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="400"/>
+</div>
 - 📫 How to reach me **muneembaig50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
