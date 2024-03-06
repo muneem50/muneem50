@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Muneem Baig</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneem50&label=Profile%20views&color=0e75b6&style=flat" alt="muneem50" /> </p>
 <div align="center">
-  <img src="![image](https://github.com/muneem50/muneem50/assets/77629001/a65c719e-4105-439d-bc49-da69e8186bd8)" width="500" height="400"/>
+  <img src="![image](https://github.com/muneem50/muneem50/assets/77629001/a65c719e-4105-439d-bc49-da69e8186bd8)"/>
 </div>
 - 📫 How to reach me **muneembaig50@gmail.com**
 
