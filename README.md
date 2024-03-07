@@ -3,11 +3,12 @@
 <img align="right" alt="coding" width="400" src="![image](https://github.com/muneem50/muneem50/assets/77629001/a440d366-0aec-4d87-9794-c1537cac9017)"/>
 
 
-- 📫 How to reach me **muneembaig50@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/muneem baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muneem baig" height="30" width="40" /></a>
+- 📫 How to reach me **muneembaig50@gmail.com**
 </p>
 <hr>
 <h3 align="left">Skills:</h3>
