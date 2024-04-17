@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Muneem Baig</h1>
-<div align="center">
+<!-- <div align="center">
   (https://user-images.githubusercontent.com/97909617/211217091-fa8e848c-6f5d-453c-8f9a-8df8f343ea6c.gif)
 
 
-</div>
+</div> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneem50&label=Profile%20views&color=0e75b6&style=flat" alt="muneem50" /> </p> -->
 <img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
