@@ -10,7 +10,8 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/muneem baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muneem baig" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/muneem baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muneem baig" height="32" width="32" /></a>
+<a href="http://medium.com/@muneembaig50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
 
 </p>
 - 📫 You can contact me at muneembaig50@gmail.com
