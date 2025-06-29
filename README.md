@@ -1,4 +1,6 @@
 <h1 align="center">Hey 👋, I'm Muneem Baig</h1>
+<h2 align="center">Computer Systems Engineer</h2>
+
 <!-- <div align="center">
   (https://user-images.githubusercontent.com/97909617/211217091-fa8e848c-6f5d-453c-8f9a-8df8f343ea6c.gif)
 
@@ -6,12 +8,11 @@
 </div> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneem50&label=Profile%20views&color=0e75b6&style=flat" alt="muneem50" /> </p> -->
-<img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+<img align="right" alt="coding"  width="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/muneem baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muneem baig" height="30" width="40" /></a>
-<a href="http://medium.com/@muneembaig50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="40" height="30" /></a>
+<a href="https://stackoverflow.com/users/muneem baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muneem baig" height="30" width="40" /></a><a href="http://medium.com/@muneembaig50" target="_blank" ><img img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="40" height="30" /></a><a href="https://www.linkedin.com/in/muneem-baig/" target="_blank"><img img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 </p>
 - 📫 You can contact me at muneembaig50@gmail.com
